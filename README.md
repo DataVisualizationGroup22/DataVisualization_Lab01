@@ -1,6 +1,6 @@
 ## VNUHCM - University of Science | CSC10108 – TRỰC QUAN HÓA DỮ LIỆU
 
-### LAB-02: LÀM VIỆC VÀ TRỰC QUAN HÓA DỮ LIỆU CHUỖI THỜI GIAN
+### LAB-01: TRỰC QUAN HÓA DỮ LIỆU VỚI PYTHON
 
 #### Group 22
 
